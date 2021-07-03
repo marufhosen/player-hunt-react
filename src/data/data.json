@@ -1,0 +1,90 @@
+[
+    {
+        "id" : 1,
+        "name" : "Cristiano Ronaldo",
+        "age" : "36",
+        "club": "Fc Juventus",
+        "releaseClause": 220,
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/Cristiano-Ronaldo_1.jpeg?U_vJM5MgC5U8kqo3MVccWrigPAo7KcAl"
+    },
+    {
+        "id" : 2,
+        "name": "Leonel Messi",
+        "age": "35",
+        "club": "Fc Barcelona",
+        "releaseClause": 160,
+        "url": "https://images.outlookindia.com/public/uploads/articles/2021/4/29/Messi-Stunned-AP_570_850.jpg"
+    },
+    {
+        "id" : 3,
+        "name": "Sergio Ramos",
+        "age": "36",
+        "club": "Real Madrid FC",
+        "releaseClause": 100,
+        "url": "https://isoccerng.com/wp-content/uploads/2016/05/ramos.jpg"
+    },
+    {
+        "id" : 4,
+        "name": "Son Heung Min",
+        "age": "28",
+        "club": "Tottenhum FC",
+        "releaseClause": 130,
+        "url": "https://talksport.com/wp-content/uploads/sites/5/2016/09/son2.jpg?strip=all&w=700"
+    },
+    {
+        "id" : 5,
+        "name": "Marcus Rashford",
+        "age": "26",
+        "club": "Manchester United",
+        "releaseClause": 180,
+        "url": "https://i1.wp.com/www.themanunitedfans.com/wp-content/uploads/2020/03/Marcus-Rashford.jpg?fit=600%2C400&ssl=1"
+    },
+    {
+        "id": 6,
+        "name": "Kilyan Mbappe",
+        "age": "23",
+        "club": "Paris Saint Garmain",
+        "releaseClause": 260,
+        "url": "https://img.fanatik.com.tr/img/78/740x418/5f8854e766a97ce174b1e861.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sergio Aguero",
+        "age": "33",
+        "club": "Manchester City FC",
+        "releaseClause": 110,
+        "url": "https://media.bleacherreport.com/w_800,h_533,c_fill/br-img-images/003/316/174/hi-res-00fb44bba777cea442b4c55bcb8c8dda_crop_north.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Erling Haland",
+        "age": "21",
+        "club": "Borussia Dortmund",
+        "releaseClause": 165,
+        "url": "https://lastwordonsports.com/football/wp-content/uploads/sites/4/2021/02/Haaland-sponsored.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ashraf Hakimi",
+        "age": "28",
+        "club": "Inter Milan",
+        "releaseClause": 70,
+        "url": "https://images.outlookindia.com/public/uploads/articles/2021/5/29/Achraf-Hakimi-AP_570_850.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Luka Jovic",
+        "age": "24",
+        "club": "Ethernet Frankfut",
+        "releaseClause": 60,
+        "url":"https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Ftherealchamps.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1199056682-850x560.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Alvero Morata",
+        "age": "29",
+        "club": "Athletico Madrid",
+        "releaseClause": 45,
+        "url":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/02/19/15505731629821.jpg"
+    }
+]

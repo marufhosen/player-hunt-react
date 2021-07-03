@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+}
+.container img{
+    width: 400px;
+    padding: 20px;
+}
+.addBtn{
+    background-color: black;
+    color: white;
+    padding: 7px 15px;
+    border: none;
+    cursor: pointer;
+}
+.addBtn:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+.icon{
+    margin-right: 5px;
+}
